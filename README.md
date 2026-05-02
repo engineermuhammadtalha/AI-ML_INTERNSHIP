@@ -6,7 +6,7 @@
 
 ## 👤 About
 
-**Muhammad Talha** · AI/ML Engineer
+**Muhammad Talha** · AI Engineer
 🔗 [GitHub Profile](https://github.com/engineermuhammadtalha)
 
 ---
